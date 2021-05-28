@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(53, 52, 58);
+}
+
+#header {
+  background-color: rgb(230, 223, 215);
+  margin-top: 10%;
+  padding: 10%;
+}
+#header .col-6 img {
+  width: 100%;
+}
