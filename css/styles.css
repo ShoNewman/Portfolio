@@ -10,12 +10,19 @@ body {
 #header .col-6 img {
   width: 100%;
 }
-.about {
+.sections {
   background-color: rgb(226, 226, 236);
   padding: 10%;
 }
-.about h1 {
+.sections h1 {
   text-align: center;
   margin-top: 5%;
   margin-bottom: 5%;;
+}
+#projects li {
+  display: block;
+  width: 30%;
+  padding-right: 2%;
+  border: solid red 1px;
+  float: left;
 }
