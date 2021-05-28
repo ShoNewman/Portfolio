@@ -10,3 +10,12 @@ body {
 #header .col-6 img {
   width: 100%;
 }
+.about {
+  background-color: rgb(226, 226, 236);
+  padding: 10%;
+}
+.about h1 {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;;
+}
