@@ -1,5 +1,5 @@
 body {
-  background-color: #0E7E7EF;
+  background-color: #ffffff;
 }
 .container {
   padding: 0;
@@ -16,38 +16,70 @@ body {
   height: 100%;
   overflow: auto;
   position: fixed;
-  padding: 1%;
+  padding: 2% 0 0 3%;
   box-sizing: border-box;
-  background-color: #C6CFD6;
+  background-color: #00AAA0;
+  color: #ffffff;
+  border-right: #85659e 5px solid;
+}
+.sidenavbar h3 {
+  color: #462066;
+}
+.sidenavbar ul {
+  padding-left: 0;
+  margin-bottom: 15%;
+}
+.sidenavbar ul li {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 0;
+  text-indent: 0;
+  font-size: larger;
+  padding-bottom: 21;
+}
+.sidenavbar ol {
+  padding-left: 7%;
+}
+.sidenavbar h3 {
+  padding-bottom: 2%;
+  font-size: xx-large;
 }
 .content {
   padding-left: 25%;
   background-color: ;
 }
-.content h2 {
-  color: #EE3233;
+#header h2 {
+  color: #00AAA0;
+  font-weight: bolder;
+  font-style: italic;
+}
+#header h3 {
+  color: #462066;
+  font-size: x-large;
 }
 #header {
-  background-color: white;
   padding: 10%;
 }
 #header .col-6 img {
   width: 100%;
 }
 #about {
-  background-color: #CEEBFB;
+  background-color: #f1efe7;
 }
 #projects {
-  background-color: #A3D6F5;
 }
 .sections {
-  background-color: rgb(226, 226, 236);
-  padding: 10%;
+  padding: 5% 10% 10% 10%;
 }
 .sections h1 {
   text-align: center;
-  margin-top: 5%;
-  margin-bottom: 5%;;
+  margin-top: 0;
+  margin-bottom: 5%;
+  padding-bottom: 2%;
+  color: #00AAA0;
+  text-align: left;
+  text-indent: 2%;
+  border-bottom: 2px #00AAA0 dotted;
 }
 #projects li {
   display: block;
@@ -68,4 +100,10 @@ span {
   color: green;
   font-weight: bold;
 }
-
+.sections ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.sections ul li {
+  margin-bottom: 6%;
+}
