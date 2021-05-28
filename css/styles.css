@@ -1,3 +1,4 @@
+/* default styles */
 body {
   background-color: #0E7E7EF;
 }
@@ -11,35 +12,6 @@ body {
   margin-right: 0;
   margin-left: 0;
 }
-.sidenavbar {
-  width: 20%;
-  height: 100%;
-  overflow: auto;
-  position: fixed;
-  padding: 1%;
-  box-sizing: border-box;
-  background-color: #C6CFD6;
-}
-.content {
-  padding-left: 25%;
-  background-color: ;
-}
-.content h2 {
-  color: #EE3233;
-}
-#header {
-  background-color: white;
-  padding: 10%;
-}
-#header .col-6 img {
-  width: 100%;
-}
-#about {
-  background-color: #CEEBFB;
-}
-#projects {
-  background-color: #A3D6F5;
-}
 .sections {
   background-color: rgb(226, 226, 236);
   padding: 10%;
@@ -49,6 +21,54 @@ body {
   margin-top: 5%;
   margin-bottom: 5%;;
 }
+span {
+  color: green;
+  font-weight: bold;
+}
+
+/* side navigation bar styles */
+.sidenavbar {
+  width: 20%;
+  height: 100%;
+  overflow: auto;
+  position: fixed;
+  padding: 1%;
+  box-sizing: border-box;
+  background-color: #C6CFD6;
+}
+
+/* main content styles */
+.content {
+  padding-left: 25%;
+  background-color: ;
+}
+.content h2 {
+  color: #EE3233;
+}
+
+/* header styles */
+#header {
+  background-color: white;
+  padding: 10%;
+}
+#header .col-6 img {
+  width: 100%;
+}
+
+/* about sytyles */
+#about {
+  background-color: #CEEBFB;
+}
+
+/* project styles */
+#projects {
+  background-color: #A3D6F5;
+  overflow: auto;
+}
+#project ul {
+  padding-bottom: 10%;
+  display: block;
+}
 #projects li {
   display: block;
   width: 50%;
@@ -57,15 +77,6 @@ body {
   float: left;
   box-sizing: border-box;
 }
-#project ul {
-  padding-bottom: 10%;
-  display: block;
-}
-#projects {
-  overflow: auto;
-}
-span {
-  color: green;
-  font-weight: bold;
-}
+
+
 
