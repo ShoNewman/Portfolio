@@ -2,7 +2,7 @@
 
 #### _Portfolio interface for showcasing experience, skills, education and past projects_
 
-#### By _**By Shoshana Newman**_
+#### By _**Shoshana Newman**_
 
 ## Technologies Used
 
@@ -13,19 +13,19 @@
 
 ## Description
 
-_This browser application is used to display my past projects, resume, experience, education and interests to send to potential employers for employment. It will be continuously updated as my career progresses to reflect my current skill level and expertise_
+_This browser application is used to display my past projects, resume, experience, education and interests to send to potential employers for employment. It will be continuously updated as my career progresses to reflect my current skill level and expertise._
 
 ## Setup/Installation Requirements
 
-* _Navigated to:[Portfolio](https://shonewman.github.io/Portfolio "Portfolio") _
-* _Or clone this [Repository](https://github.com/ShoNewman/Portfolio.git) to your computer _
+* _Navigate to: [Portfolio](https://shonewman.github.io/Portfolio "Portfolio")_
+* _Or clone this [Repository](https://github.com/ShoNewman/Portfolio.git) to your computer_
 * _Open index.html in browser of your choosing_
 
 ## Known Bugs
 
-* _About me collumns overlap each other if you decrease your browser window size_
+* _About section collumns overlap each other if you decrease your browser window size_
 * _Email address in sidebar gets cut off if browser window size is decreased_
-* _Side navigation bar overlaps content if broswer window is too large_
+* _Side navigation bar overlaps content if browser window is too large_
 
 ## License
 
@@ -35,10 +35,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
 
-}_
 
 ## Contact Information
 
-_Shoshana Newman [mailto](mailto:sho.newman@gmail.com)_
+_Shoshana Newman [sho.newman@gmail.com](mailto:sho.newman@gmail.com)_
