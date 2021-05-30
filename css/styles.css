@@ -29,8 +29,8 @@ span {
 /* side navigation bar styles */
 .sidenavbar {
   width: 20%;
-  height: 100%;
   overflow: auto;
+  height: 100%;
   position: fixed;
   padding: 2% 0 0 3%;
   box-sizing: border-box;
@@ -64,7 +64,6 @@ span {
 /* main content styles */
 .content {
   padding-left: 25%;
-  background-color: ;
 }
 #header h2 {
   color: #00AAA0;
@@ -146,3 +145,31 @@ span {
   margin-bottom: 6%;
 }
 >>>>>>> color-test
+
+.card {
+  width: 50%;
+  box-sizing: border-box;
+  float: left;
+}
+.container .card {
+  width: 48%;
+  float: left;
+  margin-right: 2%;
+  margin-bottom: 2%;;
+  box-sizing: border-box;
+  height: fit-content;
+  overflow: scroll;
+  height: 200px;
+}
+.card-title {
+  font-size: larger;
+}
+.card-title a {
+  color: #462066;
+  font-weight: bold;
+}
+.project-content {
+  overflow: auto;
+  padding: 0;
+
+}
